@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f9af102.chunk.css",
+    "main.js": "/static/js/main.6a606dfb.chunk.js",
+    "main.js.map": "/static/js/main.6a606dfb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.67598149.js",
+    "runtime-main.js.map": "/static/js/runtime-main.67598149.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.d4e3ca9f.chunk.js": "/static/js/2.d4e3ca9f.chunk.js",
+    "static/js/2.d4e3ca9f.chunk.js.map": "/static/js/2.d4e3ca9f.chunk.js.map",
+    "static/js/3.c6f4ed77.chunk.js": "/static/js/3.c6f4ed77.chunk.js",
+    "static/js/3.c6f4ed77.chunk.js.map": "/static/js/3.c6f4ed77.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.8f9af102.chunk.css.map": "/static/css/main.8f9af102.chunk.css.map",
+    "static/js/2.d4e3ca9f.chunk.js.LICENSE.txt": "/static/js/2.d4e3ca9f.chunk.js.LICENSE.txt",
+    "static/media/abrir-caja.502df69d.png": "/static/media/abrir-caja.502df69d.png",
+    "static/media/botella-de-plastico.1a097e4d.png": "/static/media/botella-de-plastico.1a097e4d.png",
+    "static/media/descripcion-del-producto.6eeb018d.png": "/static/media/descripcion-del-producto.6eeb018d.png",
+    "static/media/descuento.19684af2.png": "/static/media/descuento.19684af2.png",
+    "static/media/empleados.7bc31902.png": "/static/media/empleados.7bc31902.png",
+    "static/media/empresa.713ac8b9.png": "/static/media/empresa.713ac8b9.png",
+    "static/media/estante.699ea6f7.png": "/static/media/estante.699ea6f7.png",
+    "static/media/inventario.85a37c4e.png": "/static/media/inventario.85a37c4e.png",
+    "static/media/inventario4.60f53cfc.png": "/static/media/inventario4.60f53cfc.png",
+    "static/media/las-compras-en-linea2.f769a70e.png": "/static/media/las-compras-en-linea2.f769a70e.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/notadeenvio.7c831644.png": "/static/media/notadeenvio.7c831644.png",
+    "static/media/perfil(1).86ecd58c.png": "/static/media/perfil(1).86ecd58c.png",
+    "static/media/procesamiento-por-lotes.35973d98.png": "/static/media/procesamiento-por-lotes.35973d98.png",
+    "static/media/productos2.d7cacd0a.png": "/static/media/productos2.d7cacd0a.png",
+    "static/media/proveedor.375fc60c.png": "/static/media/proveedor.375fc60c.png",
+    "static/media/repartidor.ad92ea7d.png": "/static/media/repartidor.ad92ea7d.png",
+    "static/media/tipicosmargoth.a27e3b69.png": "/static/media/tipicosmargoth.a27e3b69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67598149.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.d4e3ca9f.chunk.js",
+    "static/css/main.8f9af102.chunk.css",
+    "static/js/main.6a606dfb.chunk.js"
+  ]
+}
